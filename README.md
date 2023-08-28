@@ -1,3 +1,5 @@
+# Random Password Generator - React App
+
 # Live
 [Click to test live](https://random-password-generator-react.vercel.app/)
 
